@@ -30,3 +30,8 @@ WackAMole/obj/Debug/net5.0/whack_a_mole.GeneratedMSBuildEditorConfig.editorconfi
 WackAMole/obj/Debug/net5.0/whack_a_mole.genruntimeconfig.cache
 WackAMole/obj/Debug/net5.0/whack_a_mole.pdb
 WackAMole/obj/Debug/net5.0/ref/whack_a_mole.dll
+TicTacToe/tictactoe/obj/project.assets.json
+TicTacToe/tictactoe/obj/project.nuget.cache
+TicTacToe/tictactoe/obj/tictactoe.csproj.nuget.dgspec.json
+TicTacToe/tictactoe/obj/tictactoe.csproj.nuget.g.props
+TicTacToe/tictactoe/obj/tictactoe.csproj.nuget.g.targets
